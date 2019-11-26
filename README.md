@@ -1,2 +1,0 @@
-# CorsoJava
-Corso Java
